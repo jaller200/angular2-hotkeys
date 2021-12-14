@@ -32,7 +32,7 @@
     "url": "git@github.com:brtnshrdr/angular2-hotkeys.git/issues"
   },
   "peerDependencies": {
-    "rxjs": "^5.5.0 || ^6.0.0"
+    "rxjs": "^5.5.0 || ^6.0.0 || ^7.0.0"
   },
   "dependencies": {
     "@types/mousetrap": "^1.6.0",
